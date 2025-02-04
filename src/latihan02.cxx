@@ -1,5 +1,5 @@
 /**
- * @file latihan01_1.cxx
+ * @file latihan02.cxx
  * @brief An Overview of C++
  * @details Introducing C++ Classes
  */

@@ -1,5 +1,5 @@
 /**
- * @file latihan04.cxx
+ * @file latihan05.cxx
  * @brief An Overview of C++
  * @details Constructors and Destructors
  */

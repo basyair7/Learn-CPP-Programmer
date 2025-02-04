@@ -1,5 +1,5 @@
 /**
- * @file latihan01_1.cxx
+ * @file latihan01_2.cxx
  * @brief An Overview of C++
  * @details A Closer Look at the I/O Operators
  */
