@@ -14,6 +14,8 @@ void stradd(char *s1, char *s2);
 void stradd(char *s1, int i);
 
 int main() {
+	printf("%s\n", __FILE__);
+	
 	char str[80];
 	
 	strcpy(str, "Hello ");

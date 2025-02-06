@@ -99,6 +99,8 @@ int school::get_offices() {
 }
 
 int main() {
+	printf("%s\n", __FILE__);
+	
 	house h;
 	school s;
 	

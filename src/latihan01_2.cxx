@@ -9,6 +9,8 @@
 using namespace std;
 
 int main() {
+	printf("%s\n", __FILE__);
+	
 	float f;
 	char str[80];
 	double d;

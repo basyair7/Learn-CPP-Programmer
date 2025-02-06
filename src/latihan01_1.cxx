@@ -10,6 +10,8 @@ using namespace std;
 
 int main(void)
 {
+	printf("%s\n", __FILE__);
+	
 	int i;
 	cout << "This is output.\n"; // this is a single line comment
 	/* you can still use C style comments */

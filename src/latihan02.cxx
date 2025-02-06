@@ -46,6 +46,8 @@ int stack::pop() {
 }
 
 int main() {
+	printf("%s\n", __FILE__);
+	
 	stack stack1, stack2; // create two stack objects
 	
 	stack1.init();

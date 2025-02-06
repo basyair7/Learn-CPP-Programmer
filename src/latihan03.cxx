@@ -12,6 +12,8 @@ double abs(double d);
 long abs(long l);
 
 int main() {
+	printf("%s\n", __FILE__);
+	
 	std::cout << abs(-10) << "\n";
 	std::cout << abs(-11.0) << "\n";
 	std::cout << abs(-9L) << "\n";
