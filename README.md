@@ -1,4 +1,4 @@
-# Program Latihan Pemrograman Bahasa C
+# Program Latihan Pemrograman Bahasa C++
 
 ## Installation
 
@@ -35,5 +35,5 @@ make
 ```
 4. **Run file Output**
 ```sh
-./latihan01_out
+./output
 ```
