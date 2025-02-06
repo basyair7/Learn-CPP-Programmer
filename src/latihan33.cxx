@@ -6,6 +6,7 @@
  *          The nothrow Alternative
  */
 
+// Demonstrate nothrow version of new.
 #include <iostream>
 #include <new>
 using namespace std;
