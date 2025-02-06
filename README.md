@@ -37,3 +37,27 @@ make
 ```sh
 ./output
 ```
+
+## Running CMake on Windows (With MingW-w64 POSIX)
+
+1. **Create a build directory**: Navigate to your project directory and create a build directory:
+```sh
+mkdir build
+cd build
+```
+2. **Run CMake**: Run CMake to configure your project:
+```sh
+cmake -G "MinGW Makefiles" ..
+```
+or
+```sh
+cmake ..
+```
+3. **Build your project**: Compile your project using the mingw32-make command:
+```sh
+mingw32-make
+```
+4. **Run file Output**
+```sh
+./output
+```
